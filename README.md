@@ -1,3 +1,5 @@
+![logo](https://github.com/Shauryaa007/Shauryaa007/blob/main/slytherin-crest-knitted-fabric-c28xxc8n570d5ret-c28xxc8n570d5ret.jpg)
+
 <h1 align="center">Hi 👋, I'm SHAURYA AWASTHI</h1>
 <h3 align="center">I am an undergraduate pursuing a B-Tech from the KIET GROUP OF INSTITUTIONS in the CS branch.</h3>
 <img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
