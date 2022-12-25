@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shauryaawasthi31@gmail.com**
 
-- 📄 Know about my experiences [shauryaa.c1.biz](shauryaa.c1.biz)
+- 📄 Know about my experiences [shauryaa.c1.biz](https://shauryaa007.github.io/Portfolio-new/)
 
 - ⚡ Fav Lines **“Agar magar kaash me hu , me khud apni talash me hu..”**
 
