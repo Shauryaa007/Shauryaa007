@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryaa007&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaa007" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shauryaa007](https://github.com/Shauryaa007)
 
-- 📝 I regularly push GFG POTD in [https://github.com/Shauryaa007/POTD-GFG](https://github.com/Shauryaa007/POTD-GFG)
+- 📝 I regularly push Leetcode Solutions in [https://github.com/Shauryaa007/POTD-GFG](https://github.com/Shauryaa007/POTD-GFG)
 
 - 💬 Ask me about **React-Js,DSA,CP**
 
@@ -18,7 +16,6 @@
 
 - 📄 [Know about my experiences](https://shauryaa007.github.io/Portfolio-new/)
 
-- ⚡ Fav Lines **“Agar magar kaash me hu , me khud apni talash me hu..”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
