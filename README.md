@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SHAURYA AWASTHI</h1>
-<h3 align="center">I am an undergraduate pursuing a B-Tech from the KIET GROUP OF INSTITUTIONS in the CS branch.</h3>
+<h3 align="center">I am an Software Engineer.</h3>
 <img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryaa007&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaa007" /> </p>
